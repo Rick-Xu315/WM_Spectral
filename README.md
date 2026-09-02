@@ -1,11 +1,18 @@
 <h1 align="center">How do World Models and Policies Compose in LLM Agents?<br>A Joint Spectral and Behavioral Account</h1>
 
 <p align="center">
-  <!-- TODO: once the preprint is up, wrap this badge in
-       <a href="https://arxiv.org/abs/ARXIV_ID"> ... </a> -->
-  <img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg" alt="arXiv">
-  <img src="https://img.shields.io/badge/EMNLP%202026-Findings-4b44ce.svg" alt="EMNLP 2026 Findings">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://arxiv.org/abs/2608.30067">
+    <img src="https://img.shields.io/badge/arXiv-paper-b31b1b.svg" alt="arXiv">
+  </a>
+
+  <a href="https://2026.emnlp.org/">
+    <img src="https://img.shields.io/badge/EMNLP%202026-Findings-4b44ce.svg" alt="EMNLP 2026 Findings">
+  </a>
+
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+
   <img src="https://img.shields.io/badge/PyTorch-2.1%2B-ee4c2c.svg" alt="PyTorch">
 </p>
 
